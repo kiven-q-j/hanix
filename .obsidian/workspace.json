@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "9d7679e152a4638c",
+    "type": "split",
+    "children": [
+      {
+        "id": "793cb997a2e56f99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19f3c71bc7b0294a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "read_note/重症量化脑电图/脑电图基础.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0916ccfb8da50d0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "df57fbe36276a61e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d77a399a1460e102",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d6c983481b3d6309",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "08d998766f7949c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d33a8f0ed98790a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd29dcb15bf6eada",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4bda7af3cdc78eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "read_note/重症量化脑电图/脑电图基础.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33008df63e279e8f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "read_note/重症量化脑电图/脑电图基础.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c21bdeea73e5f09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c76ec9fac1673354",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "read_note/重症量化脑电图/脑电图基础.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "19f3c71bc7b0294a",
+  "lastOpenFiles": [
+    "images/account_config.png",
+    "li.md",
+    "read_note/重症量化脑电图/脑电图基础.md",
+    "images/EEG_frequency_band.png",
+    "images",
+    "新建文件夹",
+    "read_note/重症量化脑电图",
+    "read_note/EEG+fMRI/癫痫.md",
+    "Untitled.canvas",
+    "work_note/dfji.md",
+    "read_note/EEG+fMRI",
+    "read_note",
+    "work_note"
+  ]
+}
